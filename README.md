@@ -1,8 +1,6 @@
 # 🤖 Arduino Dual Servo Motor Control
 
-![Project Setup](./7BB6488B-90FA-4F65-A2AF-FDA04DDBAFFC.jpeg)
 
-This project demonstrates how to control two micro servo motors using an Arduino Uno board. It is suitable for beginners who are exploring motor control, PWM signals, and Arduino programming.
 
 ## 🔌 Components Used
 - Arduino Uno R3
